@@ -1,0 +1,122 @@
+.casa_caja{
+	background-color: lightblue;
+	margin:0 auto;
+	position: relative;
+	height: 50em;
+}
+
+.humo1{
+	height: 6em;
+	width: 6em;
+	background-color: #969696;
+	border-radius: 50%;
+
+	position: absolute;
+	right:5em;
+	bottom: 33em;
+}
+
+.humo2{
+	height: 4em;
+	width: 4em;
+	background-color: #7C7C7C;
+	border-radius: 50%;
+
+	position: absolute;
+	right:10em;
+	bottom: 30em;
+}
+
+.humo3{
+	height: 2em;
+	width: 2em;
+	background-color: #666666;
+	border-radius: 50%;
+
+	position: absolute;
+	right:13em;
+	bottom: 28em;
+}
+
+.chimenea1{
+	height: 6em;
+	width: 3em;
+	background-color: #969696;
+
+	position: absolute;
+	right:12em;
+	bottom: 20em;
+}
+
+.chimenea2{
+	height: 2em;
+	width: 5em;
+	background-color: #969696;
+
+	position: absolute;
+	right:11em;
+	bottom: 26em;
+}
+
+.techo{
+	width: 28em;
+    height: 0em;
+    border-right: 3em solid transparent;
+    border-left: 3em  solid transparent;
+    border-bottom: 7em solid black;
+	
+	position: absolute;
+	right:6em;
+	bottom: 17em;
+}
+
+
+.base{
+	height: 11em;
+	width: 26em;
+	background-color: orange;
+
+	position: absolute;
+	bottom: 6em;
+	right: 10em;
+}
+
+.ventana1{
+	height: 5em;
+	width: 5em;
+	background-color: #7BDADF;
+
+	position:absolute;
+	bottom: 10em;
+	right: 13em;
+}
+
+.ventana2{
+	height: 5em;
+	width: 5em;
+	background-color: #7BDADF;
+
+	position:absolute;
+	bottom: 10em;
+	right: 29em;
+}
+
+.puerta{
+	height: 8em;
+	width: 7em;
+	background-color: white;
+
+	position:absolute;
+	bottom: 6em;
+	right: 19.5em;
+}
+
+.pasto{
+	height: 6em;
+	width: 100%;
+	background-color: green;
+
+	position: absolute;
+	bottom: 0em;
+	right: 0em;
+}
